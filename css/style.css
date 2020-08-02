@@ -2735,7 +2735,8 @@ ul {
   height: 69%;
   content: "";
   background-image: url(../img/banner_img.png);
-  background-size: 100% 100%;
+  background-size: 100% 70%;
+  background-repeat: no-repeat;
   right: 9%;
 }
 
